@@ -1,0 +1,78 @@
+body {
+  background-color: black; }
+
+* {
+  box-sizing: border-box; }
+
+header,
+section {
+  overflow-x: hidden; }
+
+header a {
+  font-size: 0.8em;
+  color: whitesmoke; }
+
+header {
+  background: #000000; }
+
+header .nav-item:last-child {
+  padding-right: 10.5em; }
+
+header .nav-item {
+  padding: 0.9em; }
+
+header .navbar-brand {
+  padding-left: 8rem; }
+
+section {
+  background: #000000; }
+
+.section-1 {
+  padding: 20vmin 0; }
+
+.section-1 .row .col-md-6 .pray img {
+  opacity: 0.7;
+  width: 80%;
+  border-radius: 0.2em; }
+
+.section-1 .row .col-md-6 :last-child {
+  position: relative; }
+
+.section-1 .row .col-md-6 .panel {
+  position: absolute;
+  color: white;
+  border-radius: 3px;
+  text-align: left;
+  box-shadow: opx 25px 42px; }
+
+.sec__container__row__panel__text__p2 {
+  background-color: lightgrey; }
+
+footer {
+  background: #000000;
+  padding: 50px; }
+
+footer .column i {
+  color: white; }
+
+footer .column a {
+  padding: 0 0.5em; }
+
+.pie__container__row__titulo__text {
+  background-color: lightgrey;
+  color: #000000; }
+
+.table {
+  background-color: #000000;
+  padding: 40px;
+  color: white; }
+
+.table-container {
+  padding: 30px;
+  border-radius: 10px; }
+
+/* Galeria */
+/* contacto */
+.form-container {
+  padding: 30px;
+  border-radius: 10px; }
